@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 42 School projects and creating audio plugins in C++<br>👯 I’m looking to collaborate on Android or Java projects<br>🤝 I’m looking for help with anything I can, just ask!<br>🌱 I’m currently learning C, C++ and UNIX.
+🔭 I’m currently working on 42 School projects and creating desktop and mobile apps in Java<br>👯 I’m looking to collaborate on Android or Java projects<br>🤝 I’m looking for help with anything I can, just ask!<br>🌱 I’m currently learning C, Java and AndroidStudio.
 
 
 ## 🌐 Socials:
