@@ -1,6 +1,5 @@
 ## 💫 Student at [42 Madrid](https://www.42madrid.com/)
 
-[![juaherre's 42 stats](https://badge42.vercel.app/api/v2/clhgo1as3001109jv9wcxl79f/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jcherrerosl) 
 
