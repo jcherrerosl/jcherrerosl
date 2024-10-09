@@ -1,5 +1,7 @@
 ## 💫 Student at [42 Madrid](https://www.42madrid.com/)
 
+000 111 1011 1101 1011 01 1001
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jcherrerosl) 
 
