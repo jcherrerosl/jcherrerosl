@@ -1,6 +1,9 @@
 ## 💫 Student at [42 Madrid](https://www.42madrid.com/)
 
-[![juanherr's 42 stats](https://badge.mediaplus.ma/starryblue/juanherr?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/juanherr)
+<a href="https://profile.intra.42.fr/users/juanherr" target="_blank">
+  <img src="https://badge.mediaplus.ma/starryblue/juanherr?1337Badge=off&UM6P=off" alt="juanherr's 42 stats">
+</a>
+
 
 ## 000 111 1011 1101 1011 01 1001 100 00 000 1 001 010 1000 0 100
 
