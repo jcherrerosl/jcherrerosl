@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 I live somewhere between **linguistics, mathematics and code**.
 
@@ -20,7 +20,7 @@ I'm into how language is built and how the brain parses it: generative syntax, f
 
 ### 🎓 Background
 
-English Studies · Behavioral Neuroscience · two years of Mathematics · [42 Madrid](https://www.42madrid.com/) (C & C++) · a past life as a music promoter 🎶
+Spanish & English Studies · Behavioral Neuroscience · two years of Mathematics · [42 Madrid](https://www.42madrid.com/) (C & C++) · a past life as a musician
 
 ### 🧰 Toolbox
 
