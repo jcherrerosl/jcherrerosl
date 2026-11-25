@@ -14,7 +14,7 @@ I'm into how language is built and how the brain parses it: generative syntax, f
 
 ### 🛠️ Things I've built
 
-- [**Qualitune**](https://github.com/jcherrerosl/qualitune_cli): automated audio-quality analysis for music curation (loudness, true peak, clipping, noise, tuning). Python + librosa.
+- [**Qualitune**](https://github.com/jcherrerosl/qualitune): automated audio-quality analysis for music curation (loudness, true peak, clipping, noise, tuning). Python + librosa.
 - [**Lógica, conjuntos y números**](https://github.com/jcherrerosl/logica-conjuntos-y-numeros): notes on logic, set theory and number theory, with examples in C *(in Spanish)*.
 - [**cub3D**](https://github.com/jcherrerosl/cub3D): a raycasting 3D engine written from scratch in C.
 
